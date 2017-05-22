@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4203cd5-8381-49b7-9937-aa7371a827f6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/camera_cal/calibration1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/camera_cal/calibration4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/camera_cal/calibration5.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/example.ipynb" afterPath="$PROJECT_DIR$/examples/example.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/corners_img.png" afterPath="$PROJECT_DIR$/output_images/corners_img.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/lane_area.png" afterPath="$PROJECT_DIR$/output_images/lane_area.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/orig_distorted_img.png" afterPath="$PROJECT_DIR$/output_images/orig_distorted_img.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/orig_undistorted_img.png" afterPath="$PROJECT_DIR$/output_images/orig_undistorted_img.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/orig_undistorted_img_1.png" afterPath="$PROJECT_DIR$/output_images/orig_undistorted_img_1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/sliding_window_fit.png" afterPath="$PROJECT_DIR$/output_images/sliding_window_fit.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/undistorted_lane_img.png" afterPath="$PROJECT_DIR$/output_images/undistorted_lane_img.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Advanced Lane Finding-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Advanced Lane Finding-checkpoint.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Advanced Lane Finding.ipynb" afterPath="$PROJECT_DIR$/Advanced Lane Finding.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,8 +27,8 @@
         <entry file="file://$PROJECT_DIR$/advanced_find_lane.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="417">
-                <caret line="42" column="0" lean-forward="true" selection-start-line="39" selection-start-column="10" selection-end-line="42" selection-end-column="0" />
+              <first_editor relative-caret-position="330">
+                <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -179,7 +184,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="973" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="973" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14529915" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -239,8 +244,8 @@
     <entry file="file://$PROJECT_DIR$/advanced_find_lane.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="417">
-            <caret line="42" column="0" lean-forward="true" selection-start-line="39" selection-start-column="10" selection-end-line="42" selection-end-column="0" />
+          <first_editor relative-caret-position="330">
+            <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
