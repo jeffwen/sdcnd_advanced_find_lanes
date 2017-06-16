@@ -43,7 +43,6 @@ One of the first steps to the project is to take in the images from the forward 
 
 One of the ways to address this distortion is to calibrate our camera if we know how much the lenses distort our image. To start with, we can take a look at a chessboard image (we know how it should actually look with no distortion) before we calibrate and undistort the image. This will allow us to calculate how much distortion is present and correct for it (most of the heavy lifting is done by OpenCV). We can do this same calibration with a set of chessboard images. Below are a couple images without undistortion.
 
-
 ![orig_distorted_img]
 
 As seen in the above examples, the images are quite varied which allows us to correct for all types of images that the camera will eventually see.
