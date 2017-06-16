@@ -1,5 +1,5 @@
 # Advanced Lane Finding
-In this project, I use different computer vision techniques to refine the identification of lane lines in both images and videos.
+In this project, I use different computer vision techniques to refine the identification of lane lines in both images and video feeds.
 
 [//]: # (Image References)
 
